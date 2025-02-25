@@ -1,0 +1,12 @@
+.hover-button {
+    opacity: 0;
+    /* Hide the button by default */
+    transition: opacity 0.3s ease;
+    /* Smooth transition */
+}
+
+.hover-item:hover .hover-button {
+    opacity: 1;
+    /* Show the button on hover */
+}
+
