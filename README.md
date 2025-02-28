@@ -1,4 +1,4 @@
-# AWS AppSync Event API Example
+# Sample Real-time Messaging with AWS AppSync Event API
 
 ## Overview
 
