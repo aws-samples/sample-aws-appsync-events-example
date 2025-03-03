@@ -1,4 +1,4 @@
-# Sample of Real-Time Messaging using AWS AppSync
+# Sample of Real-Time Messaging using AWS AppSync Events
 
 ## Overview
 
